@@ -1,0 +1,81 @@
+product_id,description,price,classification,stock,min_stock,max_stock
+1,Agua Mineral,10,Bebidas,50,10,100
+2,Refresco de Cola,15.25,Bebidas,30,10,100
+3,Jugo de Naranja,20,Bebidas,25,10,100
+4,Té Verde,18.99,Bebidas,35,10,100
+5,Café Molido,25.49,Bebidas,40,10,100
+6,Manzanas,2.75,Frutas,60,20,150
+7,Plátanos,3.25,Frutas,55,20,150
+8,Uvas,4.50,Frutas,50,20,150
+9,Fresas,5,Frutas,45,20,150
+10,Sandía,8.50,Frutas,30,20,150
+11,Leche Entera,30,Lácteos,40,20,100
+12,Leche Descremada,28.75,Lácteos,45,20,100
+13,Yogur Natural,15.80,Lácteos,50,20,100
+14,Crema de Leche,25.25,Lácteos,35,20,100
+15,Queso Gouda,40.50,Lácteos,25,20,100
+16,Pan Blanco,5.20,Panadería,80,30,200
+17,Pan Integral,6,Panadería,75,30,200
+18,Bollo de Pan,3.99,Panadería,85,30,200
+19,Croissant,4.75,Panadería,70,30,200
+20,Pastel de Chocolate,50,Panadería,20,10,50
+21,Filete de Res,60.25,Carnes,30,10,100
+22,Pechuga de Pollo,40.70,Carnes,40,10,100
+23,Chuletas de Cerdo,35.90,Carnes,50,10,100
+24,Salmón Fresco,70.50,Pescados,20,10,50
+25,Camarones Congelados,45.75,Pescados,30,10,50
+26,Atún en Lata,25.99,Pescados,40,10,50
+27,Huevos,15.30,Huevos y Aves,60,20,100
+28,Galletas Saladas,10.99,Snacks,70,30,150
+29,Papas Fritas,12.25,Snacks,75,30,150
+30,Palomitas de Maíz,8.75,Snacks,80,30,150
+31,Chocolate Amargo,20.49,Dulces,45,20,100
+32,Helado de Vainilla,30.75,Dulces,35,20,100
+33,Tarta de Frutas,40.80,Dulces,11,20,100
+34,Brownie de Chocolate,25.99,Dulces,30,20,100
+35,Pizza Congelada,15.50,Comida Preparada,40,20,100
+36,Lasaña,25.99,Comida Preparada,30,20,100
+37,Sopa Instantánea,10.25,Comida Preparada,50,20,100
+38,Ensalada Preparada,20.80,Comida Preparada,45,20,100
+39,Tomate,3.50,Verduras,60,20,150
+40,Lechuga,2.25,Verduras,65,20,150
+41,Pepino,3.99,Verduras,55,20,150
+42,Brócoli,4.25,Verduras,50,20,150
+43,Zanahorias,2.75,Verduras,70,20,150
+44,Arroz Blanco,8.99,Granos y Cereales,50,20,100
+45,Frijoles Negros,7.75,Granos y Cereales,55,20,100
+46,Quinoa,12.30,Granos y Cereales,40,20,100
+47,Cereal de Maíz,6.50,Granos y Cereales,60,20,100
+48,Panqueques de Avena,10.20,Granos y Cereales,45,20,100
+49,Refresco de Limón,15.50,Bebidas,30,10,100
+50,Jugo de Manzana,18,Bebidas,25,10,100
+51,Té Negro,20,Bebidas,35,10,100
+52,Café Instantáneo,22,Bebidas,40,10,100
+53,Peras,3.25,Frutas,60,20,150
+54,Naranjas,2.50,Frutas,65,20,150
+55,Mangos,4.75,Frutas,55,20,150
+56,Cerezas,5.50,Frutas,50,20,150
+57,Piña,6,Frutas,40,20,150
+58,Leche de Almendras,25,Lácteos,50,20,100
+59,Yogur Griego,18,Lácteos,55,20,100
+60,Queso Parmesano,35,Lácteos,35,20,100
+61,Queso Azul,40,Lácteos,30,20,100
+62,Pan de Centeno,7,Panadería,70,30,200
+63,Baguette,8.99,Panadería,65,30,200
+64,Rollo de Canela,4,Panadería,80,30,200
+65,Pan de Plátano,6.75,Panadería,75,30,200
+66,Pastel de Zanahoria,45,Panadería,20,10,50
+67,Bistec de Ternera,50.75,Carnes,25,10,100
+68,Pavo en Rodajas,35,Carnes,35,10,100
+69,Chuletas de Cordero,40.50,Carnes,40,10,100
+70,Trucha Arcoíris,60.50,Pescados,20,10,50
+71,Salmón Ahumado,40,Pescados,30,10,50
+72,Bacalao Fresco,35.90,Pescados,40,10,50
+73,Huevos de Codorniz,20,Huevos y Aves,50,20,100
+74,Tortillas de Maíz,8,Snacks,70,30,150
+75,Palitos de Queso,10,Snacks,75,30,150
+76,Papas Fritas con Queso,12.50,Snacks,80,30,150
+77,Chocolate con Leche,15,Dulces,45,20,100
+78,Helado de Chocolate,25,Dulces,35,20,100
+79,Tarta de Queso,35.99,Dulces,25,20,100
+80,Gelatina de Frutas,10,Dulces,30
